@@ -1,0 +1,185 @@
+version: 1
+project:
+  title: Open Music Theory
+  short_title: OMT
+  description: An open, interactive textbook for college-level music theory and aural skills.
+  authors:
+    - name: Kris Shaffer
+    - name: Bryn Hughes
+    - name: Brian Moseley
+  editors:
+    - name: Robin Wharton
+    - name: Kris Shaffer
+  license: CC-BY-SA-4.0
+  open_access: true
+  github: QuadriviumPress/musicTheory
+  keywords:
+    - music theory
+    - aural skills
+    - open textbook
+    - interactive book
+    - MyST Markdown
+  toc:
+    - file: index.md
+    - title: "Introduction"
+      children:
+        - file: chapters/ch-001-about.md
+        - file: chapters/ch-002-contents.md
+    - title: "Fundamentals"
+      children:
+        - file: chapters/ch-003-basic-notation.md
+        - file: chapters/ch-004-meter.md
+        - file: chapters/ch-005-protonotation.md
+        - file: chapters/ch-006-rhythmic-values.md
+        - file: chapters/ch-007-beams.md
+        - file: chapters/ch-008-pitches.md
+        - file: chapters/ch-009-scales.md
+        - file: chapters/ch-010-key-signatures.md
+        - file: chapters/ch-011-intervals.md
+        - file: chapters/ch-012-white-key-method.md
+        - file: chapters/ch-013-triads.md
+        - file: chapters/ch-014-motion-types.md
+        - file: chapters/ch-015-sight-singing.md
+        - file: chapters/ch-016-chromatic-solfege.md
+        - file: chapters/ch-017-melodic-sequentials.md
+    - title: "Voice-leading and model composition"
+      children:
+        - file: chapters/ch-018-species-intro.md
+        - file: chapters/ch-019-cantus-firmus.md
+        - file: chapters/ch-020-first-species.md
+        - file: chapters/ch-021-second-species.md
+        - file: chapters/ch-022-third-species.md
+        - file: chapters/ch-023-fourth-species.md
+        - file: chapters/ch-024-thoroughbass-figures.md
+        - file: chapters/ch-025-basso-continuo-history.md
+        - file: chapters/ch-026-rnfrom-fb.md
+        - file: chapters/ch-027-basso-continuo.md
+        - file: chapters/ch-028-tendency.md
+        - file: chapters/ch-029-tendency-tones-functional-dissonances.md
+        - file: chapters/ch-030-tbdemo.md
+        - file: chapters/ch-031-melodic-keyboard-style.md
+        - file: chapters/ch-032-kbvlschemata.md
+        - file: chapters/ch-033-melodic-kb.md
+        - file: chapters/ch-034-unfigured-bass.md
+        - file: chapters/ch-035-embellishing-tones.md
+    - title: "Harmony"
+      children:
+        - file: chapters/ch-036-functions.md
+        - file: chapters/ch-037-harmonic-functions.md
+        - file: chapters/ch-038-harmonic-syntax1.md
+        - file: chapters/ch-039-harmonic-syntax2.md
+        - file: chapters/ch-040-harmonic-analysis.md
+        - file: chapters/ch-041-cadence-types.md
+        - file: chapters/ch-042-altered-subdominants.md
+        - file: chapters/ch-043-applied-chords.md
+        - file: chapters/ch-044-modal-mixture.md
+        - file: chapters/ch-045-modulation.md
+    - title: "Classical themes and phrase rhythm"
+      children:
+        - file: chapters/ch-046-thematic-structure-in-the-classical-style.md
+        - file: chapters/ch-047-sentence.md
+        - file: chapters/ch-048-period.md
+        - file: chapters/ch-049-hybrid-themes.md
+        - file: chapters/ch-050-compound-period.md
+        - file: chapters/ch-051-compound-sentence.md
+        - file: chapters/ch-052-small-ternary.md
+        - file: chapters/ch-053-small-binary.md
+        - file: chapters/ch-054-classical-themes.md
+        - file: chapters/ch-055-theme-functions.md
+        - file: chapters/ch-056-external-expansions.md
+        - file: chapters/ch-057-internal-expansions.md
+    - title: "Sonata form"
+      children:
+        - file: chapters/ch-058-sonata-theory-intro.md
+        - file: chapters/ch-059-sonata-theory-exposition.md
+        - file: chapters/ch-060-sonata-theory-modules.md
+        - file: chapters/ch-061-sonata-structural-points-of-arrival.md
+        - file: chapters/ch-062-sonata-thematic-modules.md
+        - file: chapters/ch-063-sonata-recap.md
+        - file: chapters/ch-064-sonata-development.md
+        - file: chapters/ch-065-sonata-framing-modules.md
+    - title: "Rondo, minuet, and galant schemata"
+      children:
+        - file: chapters/ch-066-rondo.md
+        - file: chapters/ch-067-thematic-function-in-rondo.md
+        - file: chapters/ch-068-five-part-rondo.md
+        - file: chapters/ch-069-sonata-rondo.md
+        - file: chapters/ch-070-minuet.md
+        - file: chapters/ch-071-minuet-form.md
+        - file: chapters/ch-072-schemata-opens-and-closes.md
+        - file: chapters/ch-073-schemata-continuation-patterns.md
+        - file: chapters/ch-074-schemata-summary.md
+        - file: chapters/ch-075-schemata-improv.md
+    - title: "Post-tonal music"
+      children:
+        - file: chapters/ch-076-pitch-class.md
+        - file: chapters/ch-077-interval-class.md
+        - file: chapters/ch-078-mod12.md
+        - file: chapters/ch-079-scales2.md
+        - file: chapters/ch-080-symmetry-and-centricity.md
+        - file: chapters/ch-081-normal-order.md
+        - file: chapters/ch-082-transposition.md
+        - file: chapters/ch-083-inversion.md
+        - file: chapters/ch-084-set-class-and-prime-form1.md
+        - file: chapters/ch-085-set-class-and-prime-form2.md
+        - file: chapters/ch-086-complements.md
+        - file: chapters/ch-087-common-tones-under-transposition.md
+        - file: chapters/ch-088-twelve-tone-basics.md
+        - file: chapters/ch-089-twelve-tone-operations.md
+        - file: chapters/ch-090-twelve-tone-intervallic-structure.md
+        - file: chapters/ch-091-twelve-tone-music-derivation.md
+        - file: chapters/ch-092-twelve-tone-music-invariance.md
+        - file: chapters/ch-093-post-tonal-analysis.md
+        - file: chapters/ch-094-atonal.md
+        - file: chapters/ch-095-twelve-tone.md
+        - file: chapters/ch-096-atonal-glossary.md
+    - title: "Pop/rock music"
+      children:
+        - file: chapters/ch-097-syncopation.md
+        - file: chapters/ch-098-pop-rock-harmony.md
+        - file: chapters/ch-099-pop-rock-harmony-doo-wop.md
+        - file: chapters/ch-100-pop-rock-harmony-sscp.md
+        - file: chapters/ch-101-pop-rock-harmony-puff.md
+        - file: chapters/ch-102-pop-rock-harmony-blues.md
+        - file: chapters/ch-103-pop-rock-harmony-lament.md
+        - file: chapters/ch-104-pop-rock-harmony-fifths.md
+        - file: chapters/ch-105-pop-rock-harmony-plagal.md
+        - file: chapters/ch-106-pop-rock-harmony-pachelbel.md
+        - file: chapters/ch-107-pop-rock-harmony-minor.md
+        - file: chapters/ch-108-pop-rock-harmony-everett-system2.md
+        - file: chapters/ch-109-pop-rock-harmony-everett-system3.md
+        - file: chapters/ch-110-pop-rock-harmony-everett-system4.md
+        - file: chapters/ch-111-pop-rock-harmony-everett-system5.md
+        - file: chapters/ch-112-pop-rock-form.md
+        - file: chapters/ch-113-pop-rock-form-terms.md
+        - file: chapters/ch-114-pop-rock-form-containers.md
+        - file: chapters/ch-115-pop-rock-form-functions.md
+        - file: chapters/ch-116-pop-rock-form-notation.md
+    - title: "Text and music"
+      children:
+        - file: chapters/ch-117-analyzing-poetry.md
+    - title: "Technology and teaching resources"
+      children:
+        - file: chapters/ch-118-trinket.md
+        - file: chapters/ch-119-melodic-dictation-demo.md
+        - file: chapters/ch-120-typesetting-kbstyle.md
+        - file: chapters/ch-121-create-graphic.md
+        - file: chapters/ch-122-vat.md
+        - file: chapters/ch-123-gdrive.md
+        - file: chapters/ch-124-add-cc.md
+        - file: chapters/ch-125-link-to-twitter.md
+site:
+  template: book-theme
+  title: Open Music Theory
+  options:
+    favicon: images/favicon.svg
+    logo: images/logo.svg
+    logo_dark: images/logo-dark.svg
+    logo_alt: Open Music Theory mark
+    logo_text: Open Music Theory
+    logo_url: /
+    style: css/custom.css
+    hide_authors: false
+  nav:
+    - title: Sources & Attribution
+      url: https://github.com/QuadriviumPress/musicTheory/blob/main/SOURCES.md

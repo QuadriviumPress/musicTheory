@@ -1,0 +1,22 @@
+{
+  "name": "open-music-theory-myst",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The MyST Markdown edition of Open Music Theory.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10 <11"
+  },
+  "scripts": {
+    "start": "myst start",
+    "build": "myst build --html && node scripts/setup-pwa.mjs",
+    "verify": "node scripts/verify-book.mjs",
+    "check": "npm run verify && myst build --html --strict"
+  },
+  "devDependencies": {
+    "mystmd": "1.10.1",
+    "sharp": "0.34.3",
+    "yaml": "2.8.1"
+  }
+}

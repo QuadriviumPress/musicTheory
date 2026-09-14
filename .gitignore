@@ -1,3 +1,8 @@
+node_modules/
+_build/
+.myst/
+.env
+.env.*
 .DS_Store
 .DS_Store?
 ._*
@@ -5,5 +10,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+npm-debug.log*
 
+# Legacy Jekyll build caches (safe to remove after old/ is deleted)
 _site/
+.bundle/
+.sass-cache/
+old/vendor/

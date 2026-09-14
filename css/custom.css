@@ -1,0 +1,42 @@
+:root {
+  --book-accent: #7a3553;
+}
+
+a {
+  text-underline-offset: 0.15em;
+}
+
+.omt-hero {
+  aspect-ratio: 16 / 7;
+  border-radius: 0.8rem;
+  box-shadow: 0 0.9rem 2.4rem rgb(45 27 35 / 18%);
+  margin: 1.5rem auto 2rem;
+  object-fit: cover;
+  width: 100%;
+}
+
+iframe {
+  border: 0;
+  max-width: 100%;
+}
+
+iframe.spotify {
+  min-height: 80px;
+}
+
+article img {
+  height: auto;
+  max-width: 100%;
+}
+
+article table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+@media (max-width: 42rem) {
+  iframe {
+    width: 100%;
+  }
+}

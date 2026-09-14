@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 520" role="img" aria-labelledby="title desc">
+  <title id="title">Twelve-tone row forms under common operations</title>
+  <desc id="desc">A diagram showing that transposition preserves each row-form family, inversion exchanges prime with inversion and retrograde with retrograde inversion, and retrograde exchanges prime with retrograde and inversion with retrograde inversion.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 10 5 0 10Z" fill="#7a3553"/>
+    </marker>
+    <style>
+      .box{fill:#fff9f3;stroke:#7a3553;stroke-width:4}.label{font:700 30px system-ui,sans-serif;fill:#2d1b23;text-anchor:middle}.note{font:22px system-ui,sans-serif;fill:#4e3440;text-anchor:middle}.arrow{fill:none;stroke:#7a3553;stroke-width:4;marker-start:url(#arrow);marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="920" height="520" rx="28" fill="#f7eef2"/>
+  <text x="460" y="48" class="label">Operations and row-form families</text>
+  <rect x="85" y="105" width="250" height="95" rx="16" class="box"/>
+  <rect x="585" y="105" width="250" height="95" rx="16" class="box"/>
+  <rect x="85" y="335" width="250" height="95" rx="16" class="box"/>
+  <rect x="585" y="335" width="250" height="95" rx="16" class="box"/>
+  <text x="210" y="165" class="label">Prime (P)</text>
+  <text x="710" y="165" class="label">Inversion (I)</text>
+  <text x="210" y="395" class="label">Retrograde (R)</text>
+  <text x="710" y="382" class="label">Retrograde</text>
+  <text x="710" y="414" class="label">inversion (RI)</text>
+  <path d="M345 152H575" class="arrow"/>
+  <text x="460" y="136" class="note">inversion</text>
+  <path d="M210 210V325" class="arrow"/>
+  <text x="142" y="275" class="note">retrograde</text>
+  <path d="M710 210V325" class="arrow"/>
+  <text x="778" y="275" class="note">retrograde</text>
+  <path d="M345 382H575" class="arrow"/>
+  <text x="460" y="366" class="note">inversion</text>
+  <text x="460" y="476" class="note">Transposition stays within the same family: P→P, I→I, R→R, RI→RI.</text>
+</svg>

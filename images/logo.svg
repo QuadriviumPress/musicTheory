@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Open book with a musical note</title>
+  <rect width="512" height="512" rx="96" fill="#7a3553"/>
+  <path d="M75 140c67-12 127 5 181 50v226c-54-43-114-59-181-47V140Zm362 0c-67-12-127 5-181 50v226c54-43 114-59 181-47V140Z" fill="#fff9f3"/>
+  <path d="M256 190v226" stroke="#e7becd" stroke-width="14"/>
+  <path d="M319 199v116c-12-8-29-8-43 0-18 11-24 31-14 45 9 14 31 16 49 5 13-8 20-21 19-33V235l62-15v76c-12-7-29-7-43 1-18 10-24 30-15 44 10 14 32 16 50 5 13-8 20-21 19-33V180l-84 19Z" fill="#7a3553"/>
+</svg>
