@@ -18,7 +18,7 @@ Inverting something is a two-step process, performed *in this order*: (1) Reflec
 
 [![](../assets/graphics/postTonal/invertingWithAClock.png)](../assets/graphics/postTonal/invertingWithAClock.png)
 
-Fortunately, there is a much quicker way to invert a pitch or collection of pitches! Given any collection of pitch classes and a _TnI_, simply subtract the the pitch classes from _n:_
+Fortunately, there is a much quicker way to invert a pitch or collection of pitches! Given any collection of pitch classes and a _TnI_, simply subtract the pitch classes from _n:_
 
 [![](../assets/graphics/postTonal/differences.png)](../assets/graphics/postTonal/differences.png)
 

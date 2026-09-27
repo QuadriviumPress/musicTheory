@@ -37,7 +37,7 @@ Other common, but by no means required, features are:
 
 ## Essential expositional closure (EEC)
 
-In the exposition of a sonata movement, the EEC is "the first satisfactory PAC within the [subordinate] key that goes on to differening material" (Hepokoski/Darcy, p. 18). It is *not* optional, and it is _always_ in the subordinate key. In a major mode, it will nearly always be a V:PAC, and in the minor mode, it is most often a III:PAC. The closing zone (C) immediately follows the EEC.
+In the exposition of a sonata movement, the EEC is "the first satisfactory PAC within the [subordinate] key that goes on to differing material" (Hepokoski/Darcy, p. 18). It is *not* optional, and it is _always_ in the subordinate key. In a major mode, it will nearly always be a V:PAC, and in the minor mode, it is most often a III:PAC. The closing zone (C) immediately follows the EEC.
 
 Two features of the EEC are of great importance: (1) it coincides with the _first_ satisfactory PAC, and (2) it is followed by _differing_ material. _Often, the rhetorically strongest PAC in the dominant is not the EEC_.
 

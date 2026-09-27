@@ -138,14 +138,14 @@ title: "Table of Contents"
 
 Pitch-Class Sets.   
 [Normal Order.](ch-081-normal-order.md)   
-[Tranposition.](ch-082-transposition.md)   
+[Transposition.](ch-082-transposition.md)   
 [Inversion.](ch-083-inversion.md)   
 [Set Class and Prime Form (1).](ch-084-set-class-and-prime-form1.md)   
 [Set Class and Prime Form (2).](ch-085-set-class-and-prime-form2.md)   
 [Complements.](ch-086-complements.md)   
 [Common Tones under Transposition.](ch-087-common-tones-under-transposition.md)   
 Common Tones under Inversion.   
-Tranpositional Symmetry.
+Transpositional Symmetry.
 
 ### Twelve-Tone Theory
 

@@ -12,7 +12,7 @@ The most common chromatically altered subdominant chords (aside from the applied
 
 The Neapolitan chord contains lowered scale-degree 2, along with scale-degree 4, and lowered scale-degree 6: *ra*, *fa*, and *le*. It is a major triad, and it usually appears with *fa* in the bass (first-inversion), which is also doubled in a four-voice texture. 
 
-In a Roman numeral analysis, **N.** (or **N.<sup>6</sup>**) substitutes for a Roman numeral (that is, it is not labeled a flat-II chord in classical music). As a chromatically altered subdominant chord, it always expresses subominant function (**S**).
+In a Roman numeral analysis, **N.** (or **N.<sup>6</sup>**) substitutes for a Roman numeral (that is, it is not labeled a flat-II chord in classical music). As a chromatically altered subdominant chord, it always expresses subdominant function (**S**).
 
 In a functional bass analysis, **N.** is placed below the functional designation of **[S4]**.
 

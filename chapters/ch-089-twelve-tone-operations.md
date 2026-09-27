@@ -8,7 +8,7 @@ Like pitch-class sets, twelve-tone rows can be transposed (*Tn*),  inverted (*I*
 
 Inversion occurs when we *subtract* each pitch class of the row from a constant value. Again referring to the example below, when I do *T10I* of **P11** is accomplished by subtracting every pitch class of **P11** from 10.
 
-Twelve-tone rows can be _retrograded_ as well, symbolized as *R*. To retrograde a row we read it backwards. Reading **P11** backwards results in the row form shown below **P11** in the example: R11. (Remember that retrograde rows are labeld according to their *final* pitch class.) Reading **I0** backwards results in **RI0**—just below it in the example.
+Twelve-tone rows can be _retrograded_ as well, symbolized as *R*. To retrograde a row we read it backwards. Reading **P11** backwards results in the row form shown below **P11** in the example: R11. (Remember that retrograde rows are labeled according to their *final* pitch class.) Reading **I0** backwards results in **RI0**—just below it in the example.
 
 [![](../assets/graphics/postTonal/operations.png)](../assets/graphics/postTonal/operations.png)
 

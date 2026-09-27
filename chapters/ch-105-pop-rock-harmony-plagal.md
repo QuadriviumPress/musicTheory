@@ -14,7 +14,7 @@ A similar oscillation between I and IV can be found in the verse to "In the Midn
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:78eSeO2ExsR4sLUHtdBCFm" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-This kind of chord progression isn't limited to Soul and R&B, of course. The beginning of "After The Gold Rush" by Neil Young features a similar progression (it deviates after the the words "...drummers drummin..." Also, note the discrepancy between the melody notes and the chords throughout). 
+This kind of chord progression isn't limited to Soul and R&B, of course. The beginning of "After The Gold Rush" by Neil Young features a similar progression (it deviates after the words "...drummers drummin..." Also, note the discrepancy between the melody notes and the chords throughout). 
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:2anPa0qaFG1Nf0swkpfOQd" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 

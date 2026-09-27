@@ -68,7 +68,7 @@ Spotify URI: [spotify:track:0EMmVUYs9ZZRHtlADB88uz](spotify:track:0EMmVUYs9ZZRHt
 
 ### Verse (V)
 
-Verse modules are lyric-variant and often contain lyrics thatadvance the narrative. Until the 1960s, verse modules tended to be harmonically closed. Beginning in the 1960s, verse modules became more and more likely to be harmonically open (Summach, p. 114). Verses (like strophes) tend to begin on-tonic. 
+Verse modules are lyric-variant and often contain lyrics that advance the narrative. Until the 1960s, verse modules tended to be harmonically closed. Beginning in the 1960s, verse modules became more and more likely to be harmonically open (Summach, p. 114). Verses (like strophes) tend to begin on-tonic. 
 
 The first and second verses to "Livin' on a Prayer" (audio above) begin at 0:44 and 1:52, respectively.
 
@@ -89,7 +89,7 @@ The second cycle of "Livin' on a Prayer" (audio above) ends with a brief, two-ba
 
 ### Introduction & mid-song introduction (I)
 
-Introductions tend to be short and untexted (i.e., instrumental) and tend to present musical material from one or more core modules to come. Introduction modules transition from the unmetered silence that precede the song to the musical activity of the first core module. This is often accomplished by the introduction of musical material in layers (e.g., one instrument at a time) or a more generic building of energy. Occasionally intros include non-core material. Such intros often correspond to an outro based on the same material, and together they create a “bookend” effect. 
+Introductions tend to be short and untexted (i.e., instrumental) and tend to present musical material from one or more core modules to come. Introduction modules transition from the unmetered silence that precedes the song to the musical activity of the first core module. This is often accomplished by the introduction of musical material in layers (e.g., one instrument at a time) or a more generic building of energy. Occasionally intros include non-core material. Such intros often correspond to an outro based on the same material, and together they create a “bookend” effect. 
 
 It is also possible to have multiple intro modules in a row, with each based on different music. Such a succession of intros would be labeled I1, I2, etc. Dexy's Midnight Runners' "Come On Eileen" (audio above) contains several different intro modules with different musical content.
 

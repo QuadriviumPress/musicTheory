@@ -25,7 +25,7 @@ For instance, take the transition from a *verse* module to a *chorus* module at 
 - The lead vocals rise in register.  
 - Background vocals are added to the lead vocal part.  
 
-All of these features help delineate the boundary between modules, and most of them also give the new module (the chorus) a higher eneregy level than the previous module (the verse).
+All of these features help delineate the boundary between modules, and most of them also give the new module (the chorus) a higher energy level than the previous module (the verse).
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3dh2LlmeMqKJbzn2WUgt3d" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 

@@ -20,7 +20,7 @@ If the phrase prolongs tonic (no cadence), label the *entire* phrase **T––�
 
 If the phrase ends with a cadence, identify the *cadential progression*. This includes the last chord of the tonic zone, optionally followed by a subdominant chord or zone (most often a single chord), and a required dominant zone (most often a single chord or compound cadence formula). Half-cadence phrases end there. Authentic-cadence phrases continue on to a final tonic zone (usually a single chord). 
 
-The the **(S) D T** of the cadential progression should be labeled as such. Once the cadential progression is identified, everything before it is labeled as tonic prolongation. Regardless of whether it is contrapuntal prolongation, a subsidiary progression, or a combination of the two, it will be labeled **T–––.** (See [Harmonic syntax – prolongation](ch-039-harmonic-syntax2.md) if those terms are unfamiliar to you.)
+The **(S) D T** of the cadential progression should be labeled as such. Once the cadential progression is identified, everything before it is labeled as tonic prolongation. Regardless of whether it is contrapuntal prolongation, a subsidiary progression, or a combination of the two, it will be labeled **T–––.** (See [Harmonic syntax – prolongation](ch-039-harmonic-syntax2.md) if those terms are unfamiliar to you.)
 
 Thus a phrase ending with a half cadence will have a functional analysis that looks like:
 

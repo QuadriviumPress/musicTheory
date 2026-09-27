@@ -38,7 +38,7 @@ phrase 2: Consequent/continuation → III:PAC
 
 The definitive position of exposition function is at the beginning of a small ternary form (A section, beginning of the minuet or beginning of the trio). When a minuet or trio begins, expect the above internal characteristics to be present, and listen for any deviations from those norms.
 
-When listening to a minuet to identify whether or not a passage exhibits *exhibition* function, first keep in mind simply that minuets rarely begin with a function other than exposition. If you are listening to a passage without knowing where the passage occurs in the movement, listen for a single tight-knit theme that ends with a V:PAC or III:PAC. If you are unsure about the modulation, use the repeat of the A secion to determine whether the A section begins in the same key in which it ends. Classical minuets are highly conventional forms, and there are rarely exposition modulations other than I-to-V in major or I-to-III in minor.
+When listening to a minuet to identify whether or not a passage exhibits *exhibition* function, first keep in mind simply that minuets rarely begin with a function other than exposition. If you are listening to a passage without knowing where the passage occurs in the movement, listen for a single tight-knit theme that ends with a V:PAC or III:PAC. If you are unsure about the modulation, use the repeat of the A section to determine whether the A section begins in the same key in which it ends. Classical minuets are highly conventional forms, and there are rarely exposition modulations other than I-to-V in major or I-to-III in minor.
 
 ## Contrasting middle
 

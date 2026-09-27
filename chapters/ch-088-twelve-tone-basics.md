@@ -24,7 +24,7 @@ Rows can be transposed, inverted, retrograded, or any combination of those opera
 
 [![](../assets/graphics/postTonal/inversion.png)](../assets/graphics/postTonal/inversion.png)
 
-Prime forms and inversion forms can be also be played backwards, also called retrograde. In the example below notice how this work in relation to the P11 and I0 rows from above. When a P-form is retograded, we call it a "R-form." When an I-form is retrograded, it's called an "RI-form." As the example shows, R- and RI-forms are labeled according to their _last pitch class_.
+Prime forms and inversion forms can also be played backwards, also called retrograde. In the example below notice how this works in relation to the P11 and I0 rows from above. When a P-form is retrograded, we call it a "R-form." When an I-form is retrograded, it's called an "RI-form." As the example shows, R- and RI-forms are labeled according to their _last pitch class_.
 
 [![](../assets/graphics/postTonal/family.png)](../assets/graphics/postTonal/family.png)
 

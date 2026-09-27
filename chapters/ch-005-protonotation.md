@@ -29,7 +29,7 @@ In duple and triple meter, downbeats are represented by longer vertical lines, a
 
 Notes are notated by using horizontal lines for rhythmic duration and moveable-*do* solfège syllables for scale degree. Arrows are used to denote the direction of any melodic leaps. (Arrows are not necessary for stepwise progressions.)
 
-Rests are represented by the lack of horizonal line in a given beat or part of a beat. When using protonotation for transcription or dictation, however, it can be helpful to use an **X** instead of a blank, so you can distinguish a rest you are sure about from a part of the music you have left blank because you have not yet determined what is going on at that moment.
+Rests are represented by the lack of horizontal line in a given beat or part of a beat. When using protonotation for transcription or dictation, however, it can be helpful to use an **X** instead of a blank, so you can distinguish a rest you are sure about from a part of the music you have left blank because you have not yet determined what is going on at that moment.
 
 ## Converting protonotation to staff notation
 
@@ -37,7 +37,7 @@ Protonotation is not enough to produce staff notation. However, if you know 1) t
 
 First, draw the clef provided (or choose an appropriate one based on your perception of the register of the melody) and determine the key signature from the tonic provided and the mode you heard. (Look through your melody for *mi* v. *me*.)
 
-Then, determine the time signature from the beat value/bottom number provided and from the meter refelected in your protonotation. (Review [the relationship of meter to time signature](ch-004-meter.md), if necessary.) If no bottom number is provided, choose a convenient one (**4** for simple meters and **8** for compound meters are the most typical).
+Then, determine the time signature from the beat value/bottom number provided and from the meter reflected in your protonotation. (Review [the relationship of meter to time signature](ch-004-meter.md), if necessary.) If no bottom number is provided, choose a convenient one (**4** for simple meters and **8** for compound meters are the most typical).
 
 Next, each of the long protonotation lines become barlines in staff notation.
 

@@ -21,9 +21,9 @@ Think of pitch symmetry in terms of a musical “mirror.” In the passage below
 Pitch symmetry always implies an *axis of symmetry*. Maintaining our mirror metaphor, this is the place in pitch space where the mirror exists. In the case of the example above, the mirror is located at B4. Below, you’ll see the same gesture in the lower strings. The pitch-space line shows that it has a different *axis of symmetry* — around E2.
 
 
-[![](../assets/graphics/postTonal/lower.png)](../assets/graphics/postTonal/upper.png)
+[![](../assets/graphics/postTonal/lower.png)](../assets/graphics/postTonal/lower.png)
 
-[![](../assets/graphics/postTonal/lowerSymmetry.png)](../assets/graphics/postTonal/upperSymmetry.png)
+[![](../assets/graphics/postTonal/lowerSymmetry.png)](../assets/graphics/postTonal/lowerSymmetry.png)
 
 ## Pitch-Class Symmetry
 

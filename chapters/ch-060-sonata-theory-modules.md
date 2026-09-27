@@ -35,7 +35,7 @@ Other common, but by no means required, features are:
 
 ## Essential expositional closure (EEC)
 
-In the exposition of a sonata movement, the EEC is "the first satisfactory PAC within the secondary key that goes on to differening material" (Hepokoski/Darcy, p. 18). It is *not* optional, and it is *always* in the secondary key. The Closing module (C) immediately follows the EEC.
+In the exposition of a sonata movement, the EEC is "the first satisfactory PAC within the secondary key that goes on to differing material" (Hepokoski/Darcy, p. 18). It is *not* optional, and it is *always* in the secondary key. The Closing module (C) immediately follows the EEC.
 
 It is important to note both that it is the *first* satisfactory PAC, and that it goes on to *differing* material. Often the strongest PAC in the dominant is not the EEC. The EEC is a harmonic goal. Once it has been achieved, the process is complete. That harmonic goal may not coincide with the textural climax. 
 

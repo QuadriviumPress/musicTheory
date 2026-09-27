@@ -4,11 +4,11 @@ title: "Interval (class)"
 
 # Interval (class)
 
-Because intervals are dependent upon the pitches that create them, the consonance and dissonance of intervals in tonal music is determined by tonality itself. Imagine the interval create by G and B-flat, a minor third. In the context of G minor, this is a consonant interval. Respelled as G and A-sharp, it creates a dissonant augmented second. From a tonal perspective, the two intervals are different even though they are the same in isolation.
+Because intervals are dependent upon the pitches that create them, the consonance and dissonance of intervals in tonal music is determined by tonality itself. Imagine the interval created by G and B-flat, a minor third. In the context of G minor, this is a consonant interval. Respelled as G and A-sharp, it creates a dissonant augmented second. From a tonal perspective, the two intervals are different even though they are the same in isolation.
 
 ## Pitch interval
 
-When analyzing post-tonal music, we will often want to assert that similarity, especially when assumming the enharmonic equivalence of pitches. For us, the intervals G-B-flat and G-A-sharp *are* the same.
+When analyzing post-tonal music, we will often want to assert that similarity, especially when assuming the enharmonic equivalence of pitches. For us, the intervals G-B-flat and G-A-sharp *are* the same.
 
 Pitch intervals are the distance between *pitches* as measured in half steps. Thus, the interval from G4 to A-sharp5 = +15. Think of it like this: if you are G4, how many half steps do you need to move to get to A-sharp5? You’d need to move up 15.
 

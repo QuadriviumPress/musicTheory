@@ -18,7 +18,7 @@ The harmonic goal of the recapitulation (and the sonata movement as a whole) is 
 
 ## Recomposition
 
-The simplest exposition–recapitulation relationship occurs in a sonata with a I:HC MC in the exposition followed immediately by S in the dominant. In such a sonata, the composer can simply repeat P–TR verbatim in the recapitulation, and then repeat S–C verbatim, but transposed down a fifth. In such a sonata, there is no recomposition. Every bar in the recapitulation directly corresponds to a bar in the exposition, at pitch or tranposed by fifth.
+The simplest exposition–recapitulation relationship occurs in a sonata with a I:HC MC in the exposition followed immediately by S in the dominant. In such a sonata, the composer can simply repeat P–TR verbatim in the recapitulation, and then repeat S–C verbatim, but transposed down a fifth. In such a sonata, there is no recomposition. Every bar in the recapitulation directly corresponds to a bar in the exposition, at pitch or transposed by fifth.
 
 In most sonatas, however, some music from the exposition is *recomposed* in the recapitulation, often to "undo" the modulation that happened on the way to a V:HC MC. In such cases, we use the term *correspondence bars* (or *correspondence measures*) to refer to the passages that are the same (or the same transposed) in the exposition and the recapitulation. *Referential bars* make clear reference to specific bars in the exposition, but the material is changed in some non-trivial way. *Alterations* are passages in the recapitulation that have no clear reference or correspondence to passages in the exposition.
 

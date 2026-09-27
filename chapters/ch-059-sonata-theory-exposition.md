@@ -61,7 +61,7 @@ The two MCs tend to adhere to one of the following patterns (the first being by 
 
 Unlike a two-part exposition, a continuous exposition has no MC followed by a secondary (S) theme. Instead, the transition (TR) module gives way to a "spinning out" of a series of related, fragmented melodic units. This succession of small, "spinning out" modules is called *Fortspinnung* (Ger., "spinning out"). These fragments are often, but not necessarily, taken from the primary (P) theme. *Fortspinnung* is often associated with TR in general, but in a continuous exposition, the process gets out of control and fails to produce a satisfactory MC. Instead, the motives continue to "spin out" and maintain a high level of energy right up to the EEC. 
 
-The continous exposition follows the thematic cycle:
+The continuous exposition follows the thematic cycle:
 
 * **Primary theme (P)** – home key  
 * **Transition–Fortspinnung (TR=>FS)**, ending with the *essential expositional closure (EEC)*  
@@ -72,4 +72,4 @@ We can abbreviate it:
 
 > **P TR=>FS / C**
 
-A continous exposition may present no cadences that could be "candidates" for an MC, it may suggest the possibility of an upcoming MC that is evaded, or it may present an MC that fails to produce a satisfactory S theme (and thus is not really an MC). In each case, an EEC is achieved without first arriving at an MC and an S theme.
+A continuous exposition may present no cadences that could be "candidates" for an MC, it may suggest the possibility of an upcoming MC that is evaded, or it may present an MC that fails to produce a satisfactory S theme (and thus is not really an MC). In each case, an EEC is achieved without first arriving at an MC and an S theme.

@@ -41,7 +41,7 @@ Phrases are seldom 3–5 chords long, however, and a harmonic function can be ex
 
 ## Triggering and prolonging harmonic functions in an idealized phrase
 
-To establish, or trigger, a harmonic functional zone, composers tend to use *a fixed scale degree in the bass*. In other words, tonic tends to be triggered by **T1** (always **I**), subdominant by **S2** or **S4** (including a variety of **II** and **IV** chords, in in root position or inversions, with and without sevenths), and dominant by **D5** (**V**, with or without a seventh, or a [*compound cadence*](ch-041-cadence-types.md)). These four categories of chords — **T1**, **S2**, **S4**, and **D5** — are called *functional chords* (because they trigger the function) or *cadential chords* (because they can participate in a cadence). 
+To establish, or trigger, a harmonic functional zone, composers tend to use *a fixed scale degree in the bass*. In other words, tonic tends to be triggered by **T1** (always **I**), subdominant by **S2** or **S4** (including a variety of **II** and **IV** chords, in root position or inversions, with and without sevenths), and dominant by **D5** (**V**, with or without a seventh, or a [*compound cadence*](ch-041-cadence-types.md)). These four categories of chords — **T1**, **S2**, **S4**, and **D5** — are called *functional chords* (because they trigger the function) or *cadential chords* (because they can participate in a cadence). 
 
 Other chords are often called *contrapuntal chords* or *embellishing chords*, and are typically used to *prolong* a function throughout the zone. 
 

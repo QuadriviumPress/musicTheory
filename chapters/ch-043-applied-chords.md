@@ -76,7 +76,7 @@ Just as the various dominant functioning chords in a key will contain some combi
 
 ## Functional dissonances in applied chords
 
-Since tonicization temporarily borrows a chord from another key, and since that chord is made up of scale degress from that other key, an applied chord involves *borrowing scale-degree tendency from that other key*. In other words, in an applied chord, judge functional consonances (triggers and associates) and dissonances, as well as tendency tones like *ti*, relative to the key borrowed from, not the home key.
+Since tonicization temporarily borrows a chord from another key, and since that chord is made up of scale degrees from that other key, an applied chord involves *borrowing scale-degree tendency from that other key*. In other words, in an applied chord, judge functional consonances (triggers and associates) and dissonances, as well as tendency tones like *ti*, relative to the key borrowed from, not the home key.
 
 As a shortcut, that usually means the seventh of a seventh chord or the fifth of a diminished chord are functional dissonances. (In a half- or fully-diminished-seventh chord, both the fifth and seventh tend to be functional dissonances.) Also as a shortcut, the chromatically raised tone tends to be the leading-tone of the tonicized key.
 

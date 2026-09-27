@@ -10,7 +10,7 @@ Ultimately, [intervals](ch-011-intervals.md) need to be committed to memory, bot
 
 The *white-key method* requires you to memorize all of the intervals found between the white keys on the piano (or simply all of the intervals in the key of C major). Once you've learned these, any interval can be calculated as an alteration of a white-key interval. For example, we can figure out the interval D4-F#4 if we know that the interval D4-F4 is a minor third, and this interval has been made one semitone larger: a major third.
 
-Conveiently, there is a lot of repetition of interval size and quality among white-key intervals. Memorize the most frequent type, and the exceptions.
+Conveniently, there is a lot of repetition of interval size and quality among white-key intervals. Memorize the most frequent type, and the exceptions.
 
 All of the seconds are *major* except for two: E-F, and B-C, which are *minor*.
 

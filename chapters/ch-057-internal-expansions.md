@@ -55,7 +55,7 @@ The primary theme of this sonata is a [compound period](ch-050-compound-period.m
 ## Non-standard Lengths
 We often find expansions in places where the size of a sub-phrase or phrase has been increased. The phrase expansion described above created an 11-bar continuation, for example. But irregular phrase lengths do not necessarily indicate the presence of a phrase expansion. 
 
-For example, listen a few times to the first 30 seconds of the following passage, from Mozart's String Quintet in C major, K. 515. Its main theme is a [compound sentence](ch-051-compound-sentence.md). The theme's [presentation](ch-055-theme-functions.md#presentation) has three basic ideas (at 0:00, 0:09, and 0:16), each of which is constructed as a [compound basic idea](ch-049-hybrid-themes.md#the-compound-basic-idea)that contains a basic idea followed by a contrasting one:
+For example, listen a few times to the first 30 seconds of the following passage, from Mozart's String Quintet in C major, K. 515. Its main theme is a [compound sentence](ch-051-compound-sentence.md). The theme's [presentation](ch-055-theme-functions.md#presentation) has three basic ideas (at 0:00, 0:09, and 0:16), each of which is constructed as a [compound basic idea](ch-049-hybrid-themes.md#the-compound-basic-idea) that contains a basic idea followed by a contrasting one:
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0Mkcj2eA2EMqMGfzwCnd0u" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
    

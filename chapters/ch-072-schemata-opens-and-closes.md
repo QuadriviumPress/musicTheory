@@ -16,7 +16,7 @@ Schemata have both *internal defining characteristics* and *normative placements
 
 [![](../assets/graphics/form/meyer.png)](../assets/graphics/form/meyer.png)
 
-A Meyer is archetypal”opening” schema in the galant style that prolongs the tonic contrapuntally. It begins and closes on a tonic chord, with non-tonic sonorities occuring in the middle two stages. Because the Meyer closes with mi/me in the top voice, it is not so strong as to imply the finality we associate with a cadence. So it works well at the beginning of a theme. This melodic skeleton is the most important feature of the Meyer, and occurs invariably even when the bass is somewhat altered.
+A Meyer is an archetypal “opening” schema in the galant style that prolongs the tonic contrapuntally. It begins and closes on a tonic chord, with non-tonic sonorities occurring in the middle two stages. Because the Meyer closes with mi/me in the top voice, it is not so strong as to imply the finality we associate with a cadence. So it works well at the beginning of a theme. This melodic skeleton is the most important feature of the Meyer, and occurs invariably even when the bass is somewhat altered.
 
 When each sonority receives one “measure” of music, it is commonly found in the presentation or antecedent part of an opening theme. If those stages occur at the rate of two per measure, the Meyer may form a basic idea that would be followed by a closing gesture, such as the “Prinner” described below.
 
@@ -29,7 +29,7 @@ A fairly exhaustive list of opening schemata can be found on the [Galant schemat
 
 [![](../assets/graphics/form/prinner.png)](../assets/graphics/form/prinner.png)
 
-The Prinner is a typical response to an opening schema. It often occurs in a sentence (or a hybrid theme type) as the continuation phrase. Or if the harmonic rhythm is quicker, it may be used as the basis for a constrasting idea in an antecedent or consequent phrase.
+The Prinner is a typical response to an opening schema. It often occurs in a sentence (or a hybrid theme type) as the continuation phrase. Or if the harmonic rhythm is quicker, it may be used as the basis for a contrasting idea in an antecedent or consequent phrase.
 
 The Prinner has four stages corresponding to four bass notes: fa –mi/me – re – do. The skeleton of the Prinner’s melody typically accompanies the bass in parallel tenths: la/le – sol – fa – mi/me. Harmonically, the fa and do bass notes tend to take 5/3 chords while the two middle bass notes, mi/me and re, take 6/3 chords.
 

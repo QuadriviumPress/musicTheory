@@ -14,7 +14,7 @@ A "typical" continuation would have approximately four bars of continuation func
 
 The eight bars that comprise the continuation of the main theme below are constructed from two compound basic ideas, the first beginning on tonic and moving to dominant (mm. 1-4), and the second beginning with dominant harmony and moving back to tonic (mm. 5-8). 
 
-Initially, the continuation seems as if it will end after only 4 bars, in m. 12. But the clarinet is missing at the the downbeat of m. 12, and instead begins a link to a [four-bar repetition](ch-057-internal-expansions.md#phrase-expansion). In this repetition (mm. 13-16), the clarinet melody from mm. 9–12 is played by the piano, who cadences clearly with a PAC at the downbeat of m. 16.
+Initially, the continuation seems as if it will end after only 4 bars, in m. 12. But the clarinet is missing at the downbeat of m. 12, and instead begins a link to a [four-bar repetition](ch-057-internal-expansions.md#phrase-expansion). In this repetition (mm. 13-16), the clarinet melody from mm. 9–12 is played by the piano, who cadences clearly with a PAC at the downbeat of m. 16.
 
 <figure>	
   <img src="../assets/graphics/form/k498.png">

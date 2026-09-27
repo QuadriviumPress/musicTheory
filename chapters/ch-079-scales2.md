@@ -12,9 +12,9 @@ When characterizing many of these new musical resources, the word “collection�
 
 The *diatonic collection* is any transposition of the 7 white keys on the piano. Refer to these collections by the number of sharps and flats they contain: the “0-sharp” collection, the “1-sharp” collection, and so on. The “2-flat” collection, for example, contains the pitch classes {F, G, A, B-flat, C, D, E-flat}.
 
-When these collections gain a tonic note, they morph into scales, which by tradition we name according to the “modal” system established in centuries ago. (Note that while these modes share their names with the modes of the Medieval Christian church, they function quite differently. The similarity is principally one of name.) 
+When these collections gain a tonic note, they morph into scales, which by tradition we name according to the “modal” system established centuries ago. (Note that while these modes share their names with the modes of the Medieval Christian church, they function quite differently. The similarity is principally one of name.) 
 
-One way to look at these "modes" is to think of the seven white keys of the piano {C, D, E, F, A, B}. These notes, when starting on different pitches, create the different modal scales. By taking each note of the seven-white-key collection, and treating it as as the tonic, all seven modal scales can be played.  Ionian treats C as tonic, Dorian treats D as tonic, Phrygian treats E as tonic, Lydian treats F as tonic, Mixolydian treats G as tonic, Aeolian treats A as tonic, and Locrian treats B as tonic:
+One way to look at these "modes" is to think of the seven white keys of the piano {C, D, E, F, A, B}. These notes, when starting on different pitches, create the different modal scales. By taking each note of the seven-white-key collection, and treating it as the tonic, all seven modal scales can be played.  Ionian treats C as tonic, Dorian treats D as tonic, Phrygian treats E as tonic, Lydian treats F as tonic, Mixolydian treats G as tonic, Aeolian treats A as tonic, and Locrian treats B as tonic:
 
 Ionian mode (major scale): *do re mi fa sol la ti do*
 
@@ -48,7 +48,7 @@ Like the major and minor scales, these intervallic relationships can be transpos
 
 ## Pentatonic Collection
 
-*Pentatonic collections* are five-note *subsets* of the diatonic collection. Here’s a quick way to create a pentatonic collection: (1) List the notes of a major scale. (2) Remove scale degress 4 and 7. (E.g., the pentatonic collection {C,D,E,G,A} corresponds to scale degrees 1,2,3,5,6 of the C major scale.)
+*Pentatonic collections* are five-note *subsets* of the diatonic collection. Here’s a quick way to create a pentatonic collection: (1) List the notes of a major scale. (2) Remove scale degrees 4 and 7. (E.g., the pentatonic collection {C,D,E,G,A} corresponds to scale degrees 1,2,3,5,6 of the C major scale.)
 
 <img src="../assets/graphics/postTonal/pentatonicWhite.png" alt="White-key pentatonic scale on the treble staff." style="width:50%; margin:auto;" />
 
@@ -73,13 +73,13 @@ Called octatonic because it has eight pitch classes, the *octatonic collection* 
 
 <img src="../assets/graphics/postTonal/octatonic.png" alt="C half-whole octatonic scale on the treble staff." style="width:75%; margin:auto;" />
 
-The interval content of this collection is very homogenous, and this intervallic consistency leads to one of its most interesting properties. When we transpose the above collection by 3—adding 3 to each of the integers in the collection—{0,1,3,4,6,7,9,10} becomes {3,4,6,7,9,10,0,1}. Comparing the two shows that these collections are exactly the same! In fact, you would come up with the same collection if you transposed it by 6 or 9 as well. 
+The interval content of this collection is very homogeneous, and this intervallic consistency leads to one of its most interesting properties. When we transpose the above collection by 3—adding 3 to each of the integers in the collection—{0,1,3,4,6,7,9,10} becomes {3,4,6,7,9,10,0,1}. Comparing the two shows that these collections are exactly the same! In fact, you would come up with the same collection if you transposed it by 6 or 9 as well. 
 
 Olivier Messiaen called such collections “modes of limited transposition." (The whole-tone scale is also a mode of limited transposition.) And as a result of the property, there are only three unique octatonic collections. We name these arbitrarily as OCT(0,1), OCT(1,2), and OCT(2,3). The numbers to the right of “OCT” are pitch classes within that scale. (E.g., the {0,1,3,4,6,7,9,10} collection I discussed above is OCT(1,2).) We can also call them C–C&#9839; octatonic, C&#9839;–D octatonic, and D–E&#9837; octatonic.
 
 ## Other Collections and Scales
 
-There are many, many other collections and scales used by composers and musicians in the twentieth- and twenty-first centuries. Messiaen, for example, described five more [modes of limited transposition](http://en.wikipedia.org/wiki/Modes_of_limited_transposition), and there are other smaller collections that have the same property. [Acoustic scales](http://en.wikipedia.org/wiki/Acoustic_scale), formed from the first seven unique partials of the overtone series, are common in the music of Debussy, Bartok, and Crumb — ocassionally as a representation of nature. Jazz musicians have an entire set of scales used for improvisation. Non-Western musics often have unique systems of scales and collections, such as the rāgas used in Indian classical music.
+There are many, many other collections and scales used by composers and musicians in the twentieth- and twenty-first centuries. Messiaen, for example, described five more [modes of limited transposition](http://en.wikipedia.org/wiki/Modes_of_limited_transposition), and there are other smaller collections that have the same property. [Acoustic scales](http://en.wikipedia.org/wiki/Acoustic_scale), formed from the first seven unique partials of the overtone series, are common in the music of Debussy, Bartok, and Crumb — occasionally as a representation of nature. Jazz musicians have an entire set of scales used for improvisation. Non-Western musics often have unique systems of scales and collections, such as the rāgas used in Indian classical music.
 
 More generally, any large set of pitch classes that form the basis for a passage may function as a collection, even if it has no familiar name. Most often, music theorists refer to these collections with pitch-class set notation.
 
