@@ -14,7 +14,7 @@ Tonality is highly charged system where *scale degrees* are endowed with a magne
 
 Though *octave equivalence* is central to our understanding of tonal music, enharmonic equivalence often is not. In the key of C major, A-flat and G-sharp are *not* equivalent, though in isolation they sound the same. Spelling often indicates tendency: A-flat *falls* to G and G-sharp *rises* to A.
 
-In post-tonal music, enharmonic equivalence is often assumed — with exceptions of course. Because many composers no longer felt constrained by a tonal center, the same gravitational relationships amongst tones that we find in tonal music aren’t important. A-flat and G-sharp, therefore, can be treated as representations of the same thing.
+In post-tonal music, enharmonic equivalence is often assumed — with exceptions of course. Because many composers no longer felt constrained by a tonal center, the same gravitational relationships among tones that we find in tonal music aren’t important. A-flat and G-sharp, therefore, can be treated as representations of the same thing.
 
 ## Pitch
 
