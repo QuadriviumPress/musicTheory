@@ -7,7 +7,7 @@ preserving their figures, handouts, source files, audio, and embedded media.
 
 ## Develop locally
 
-Use Node 22 and npm 10, then install the pinned dependencies:
+Use Node 26 and npm 10, then install the pinned dependencies:
 
 ```bash
 npm ci
