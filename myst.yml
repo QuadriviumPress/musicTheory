@@ -21,7 +21,13 @@ project:
     - MyST Markdown
   # Remote hosts often answer 403, 404, or 5xx to the CI checker even when the
   # page is fine in a browser. Internal links and missing files still fail.
+  # spotify:track URIs are player links, not fetchable pages. Warn instead of
+  # failing --strict, so a mistyped id still shows up in the build log.
   error_rules:
+    - rule: link-resolves
+      severity: warn
+      keys:
+        - "spotify:track:*"
     - rule: link-resolves
       severity: ignore
       keys:

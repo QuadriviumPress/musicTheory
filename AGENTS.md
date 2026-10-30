@@ -18,6 +18,7 @@ npm run check
 ## Intentional differences
 
 - `verify` runs `node scripts/verify-book.mjs`.
+- `myst.yml` warns, rather than fails, on `spotify:track:*` link checks. Those URIs are player links, not pages the checker can fetch. Other links still follow the baseline.
 - `scripts/setup-pwa.mjs` uses theme color `#7a3553` so the installed app matches this book's branding.
 - `package.json` `license` is `MIT` for the tooling. The textbook content license is `CC-BY-SA-4.0` in `myst.yml`.
 
